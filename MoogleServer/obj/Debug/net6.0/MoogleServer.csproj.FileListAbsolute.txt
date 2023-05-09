@@ -1,0 +1,150 @@
+D:\discord\sherlyn\First project moogle-2021\MoogleServer\bin\Debug\net6.0\appsettings.Development.json
+D:\discord\sherlyn\First project moogle-2021\MoogleServer\bin\Debug\net6.0\appsettings.json
+D:\discord\sherlyn\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleServer.staticwebassets.runtime.json
+D:\discord\sherlyn\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleServer.exe
+D:\discord\sherlyn\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleServer.deps.json
+D:\discord\sherlyn\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleServer.runtimeconfig.json
+D:\discord\sherlyn\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleServer.dll
+D:\discord\sherlyn\First project moogle-2021\MoogleServer\bin\Debug\net6.0\ref\MoogleServer.dll
+D:\discord\sherlyn\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleServer.pdb
+D:\discord\sherlyn\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleEngine.dll
+D:\discord\sherlyn\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleEngine.pdb
+D:\discord\sherlyn\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.AssemblyReference.cache
+D:\discord\sherlyn\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\discord\sherlyn\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.AssemblyInfoInputs.cache
+D:\discord\sherlyn\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.AssemblyInfo.cs
+D:\discord\sherlyn\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.CoreCompileInputs.cache
+D:\discord\sherlyn\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+D:\discord\sherlyn\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.RazorAssemblyInfo.cache
+D:\discord\sherlyn\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.RazorAssemblyInfo.cs
+D:\discord\sherlyn\First project moogle-2021\MoogleServer\obj\Debug\net6.0\staticwebassets.build.json
+D:\discord\sherlyn\First project moogle-2021\MoogleServer\obj\Debug\net6.0\staticwebassets.development.json
+D:\discord\sherlyn\First project moogle-2021\MoogleServer\obj\Debug\net6.0\scopedcss\Pages\Index.razor.rz.scp.css
+D:\discord\sherlyn\First project moogle-2021\MoogleServer\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\discord\sherlyn\First project moogle-2021\MoogleServer\obj\Debug\net6.0\scopedcss\bundle\MoogleServer.styles.css
+D:\discord\sherlyn\First project moogle-2021\MoogleServer\obj\Debug\net6.0\scopedcss\projectbundle\MoogleServer.bundle.scp.css
+D:\discord\sherlyn\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.CopyComplete
+D:\discord\sherlyn\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.dll
+D:\discord\sherlyn\First project moogle-2021\MoogleServer\obj\Debug\net6.0\ref\MoogleServer.dll
+D:\discord\sherlyn\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.pdb
+D:\discord\sherlyn\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.genruntimeconfig.cache
+D:\discord\sherlyn\Angel Daniel Cabrera Joya C112 !Moogle\MoogleServer\bin\Debug\net6.0\appsettings.Development.json
+D:\discord\sherlyn\Angel Daniel Cabrera Joya C112 !Moogle\MoogleServer\bin\Debug\net6.0\appsettings.json
+D:\discord\sherlyn\Angel Daniel Cabrera Joya C112 !Moogle\MoogleServer\bin\Debug\net6.0\MoogleServer.staticwebassets.runtime.json
+D:\discord\sherlyn\Angel Daniel Cabrera Joya C112 !Moogle\MoogleServer\bin\Debug\net6.0\MoogleServer.exe
+D:\discord\sherlyn\Angel Daniel Cabrera Joya C112 !Moogle\MoogleServer\bin\Debug\net6.0\MoogleServer.deps.json
+D:\discord\sherlyn\Angel Daniel Cabrera Joya C112 !Moogle\MoogleServer\bin\Debug\net6.0\MoogleServer.runtimeconfig.json
+D:\discord\sherlyn\Angel Daniel Cabrera Joya C112 !Moogle\MoogleServer\bin\Debug\net6.0\MoogleServer.dll
+D:\discord\sherlyn\Angel Daniel Cabrera Joya C112 !Moogle\MoogleServer\bin\Debug\net6.0\ref\MoogleServer.dll
+D:\discord\sherlyn\Angel Daniel Cabrera Joya C112 !Moogle\MoogleServer\bin\Debug\net6.0\MoogleServer.pdb
+D:\discord\sherlyn\Angel Daniel Cabrera Joya C112 !Moogle\MoogleServer\bin\Debug\net6.0\MoogleEngine.dll
+D:\discord\sherlyn\Angel Daniel Cabrera Joya C112 !Moogle\MoogleServer\bin\Debug\net6.0\MoogleEngine.pdb
+D:\discord\sherlyn\Angel Daniel Cabrera Joya C112 !Moogle\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.AssemblyReference.cache
+D:\discord\sherlyn\Angel Daniel Cabrera Joya C112 !Moogle\MoogleServer\obj\Debug\net6.0\MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\discord\sherlyn\Angel Daniel Cabrera Joya C112 !Moogle\MoogleServer\obj\Debug\net6.0\MoogleServer.AssemblyInfoInputs.cache
+D:\discord\sherlyn\Angel Daniel Cabrera Joya C112 !Moogle\MoogleServer\obj\Debug\net6.0\MoogleServer.AssemblyInfo.cs
+D:\discord\sherlyn\Angel Daniel Cabrera Joya C112 !Moogle\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.CoreCompileInputs.cache
+D:\discord\sherlyn\Angel Daniel Cabrera Joya C112 !Moogle\MoogleServer\obj\Debug\net6.0\MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+D:\discord\sherlyn\Angel Daniel Cabrera Joya C112 !Moogle\MoogleServer\obj\Debug\net6.0\MoogleServer.RazorAssemblyInfo.cache
+D:\discord\sherlyn\Angel Daniel Cabrera Joya C112 !Moogle\MoogleServer\obj\Debug\net6.0\MoogleServer.RazorAssemblyInfo.cs
+D:\discord\sherlyn\Angel Daniel Cabrera Joya C112 !Moogle\MoogleServer\obj\Debug\net6.0\staticwebassets.build.json
+D:\discord\sherlyn\Angel Daniel Cabrera Joya C112 !Moogle\MoogleServer\obj\Debug\net6.0\staticwebassets.development.json
+D:\discord\sherlyn\Angel Daniel Cabrera Joya C112 !Moogle\MoogleServer\obj\Debug\net6.0\scopedcss\Pages\Index.razor.rz.scp.css
+D:\discord\sherlyn\Angel Daniel Cabrera Joya C112 !Moogle\MoogleServer\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\discord\sherlyn\Angel Daniel Cabrera Joya C112 !Moogle\MoogleServer\obj\Debug\net6.0\scopedcss\bundle\MoogleServer.styles.css
+D:\discord\sherlyn\Angel Daniel Cabrera Joya C112 !Moogle\MoogleServer\obj\Debug\net6.0\scopedcss\projectbundle\MoogleServer.bundle.scp.css
+D:\discord\sherlyn\Angel Daniel Cabrera Joya C112 !Moogle\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.CopyComplete
+D:\discord\sherlyn\Angel Daniel Cabrera Joya C112 !Moogle\MoogleServer\obj\Debug\net6.0\MoogleServer.dll
+D:\discord\sherlyn\Angel Daniel Cabrera Joya C112 !Moogle\MoogleServer\obj\Debug\net6.0\ref\MoogleServer.dll
+D:\discord\sherlyn\Angel Daniel Cabrera Joya C112 !Moogle\MoogleServer\obj\Debug\net6.0\MoogleServer.pdb
+D:\discord\sherlyn\Angel Daniel Cabrera Joya C112 !Moogle\MoogleServer\obj\Debug\net6.0\MoogleServer.genruntimeconfig.cache
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\MoogleServer\bin\Debug\net6.0\appsettings.Development.json
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\MoogleServer\bin\Debug\net6.0\appsettings.json
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\MoogleServer\bin\Debug\net6.0\MoogleServer.staticwebassets.runtime.json
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\MoogleServer\bin\Debug\net6.0\MoogleServer.exe
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\MoogleServer\bin\Debug\net6.0\MoogleServer.deps.json
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\MoogleServer\bin\Debug\net6.0\MoogleServer.runtimeconfig.json
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\MoogleServer\bin\Debug\net6.0\MoogleServer.dll
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\MoogleServer\bin\Debug\net6.0\ref\MoogleServer.dll
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\MoogleServer\bin\Debug\net6.0\MoogleServer.pdb
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\MoogleServer\bin\Debug\net6.0\MoogleEngine.dll
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\MoogleServer\bin\Debug\net6.0\MoogleEngine.pdb
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.AssemblyReference.cache
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\MoogleServer\obj\Debug\net6.0\MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\MoogleServer\obj\Debug\net6.0\MoogleServer.AssemblyInfoInputs.cache
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\MoogleServer\obj\Debug\net6.0\MoogleServer.AssemblyInfo.cs
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.CoreCompileInputs.cache
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\MoogleServer\obj\Debug\net6.0\MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\MoogleServer\obj\Debug\net6.0\MoogleServer.RazorAssemblyInfo.cache
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\MoogleServer\obj\Debug\net6.0\MoogleServer.RazorAssemblyInfo.cs
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\MoogleServer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\MoogleServer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\MoogleServer\obj\Debug\net6.0\scopedcss\Pages\Index.razor.rz.scp.css
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\MoogleServer\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\MoogleServer\obj\Debug\net6.0\scopedcss\bundle\MoogleServer.styles.css
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\MoogleServer\obj\Debug\net6.0\scopedcss\projectbundle\MoogleServer.bundle.scp.css
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.CopyComplete
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\MoogleServer\obj\Debug\net6.0\MoogleServer.dll
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\MoogleServer\obj\Debug\net6.0\ref\MoogleServer.dll
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\MoogleServer\obj\Debug\net6.0\MoogleServer.pdb
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\MoogleServer\obj\Debug\net6.0\MoogleServer.genruntimeconfig.cache
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle - copia\MoogleServer\bin\Debug\net6.0\appsettings.Development.json
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle - copia\MoogleServer\bin\Debug\net6.0\appsettings.json
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle - copia\MoogleServer\bin\Debug\net6.0\MoogleServer.staticwebassets.runtime.json
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle - copia\MoogleServer\bin\Debug\net6.0\MoogleServer.exe
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle - copia\MoogleServer\bin\Debug\net6.0\MoogleServer.deps.json
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle - copia\MoogleServer\bin\Debug\net6.0\MoogleServer.runtimeconfig.json
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle - copia\MoogleServer\bin\Debug\net6.0\MoogleServer.dll
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle - copia\MoogleServer\bin\Debug\net6.0\ref\MoogleServer.dll
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle - copia\MoogleServer\bin\Debug\net6.0\MoogleServer.pdb
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle - copia\MoogleServer\bin\Debug\net6.0\MoogleEngine.dll
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle - copia\MoogleServer\bin\Debug\net6.0\MoogleEngine.pdb
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle - copia\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.AssemblyReference.cache
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle - copia\MoogleServer\obj\Debug\net6.0\MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle - copia\MoogleServer\obj\Debug\net6.0\MoogleServer.AssemblyInfoInputs.cache
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle - copia\MoogleServer\obj\Debug\net6.0\MoogleServer.AssemblyInfo.cs
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle - copia\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.CoreCompileInputs.cache
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle - copia\MoogleServer\obj\Debug\net6.0\MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle - copia\MoogleServer\obj\Debug\net6.0\MoogleServer.RazorAssemblyInfo.cache
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle - copia\MoogleServer\obj\Debug\net6.0\MoogleServer.RazorAssemblyInfo.cs
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle - copia\MoogleServer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle - copia\MoogleServer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle - copia\MoogleServer\obj\Debug\net6.0\scopedcss\Pages\Index.razor.rz.scp.css
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle - copia\MoogleServer\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle - copia\MoogleServer\obj\Debug\net6.0\scopedcss\bundle\MoogleServer.styles.css
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle - copia\MoogleServer\obj\Debug\net6.0\scopedcss\projectbundle\MoogleServer.bundle.scp.css
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle - copia\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.CopyComplete
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle - copia\MoogleServer\obj\Debug\net6.0\MoogleServer.dll
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle - copia\MoogleServer\obj\Debug\net6.0\ref\MoogleServer.dll
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle - copia\MoogleServer\obj\Debug\net6.0\MoogleServer.pdb
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle - copia\MoogleServer\obj\Debug\net6.0\MoogleServer.genruntimeconfig.cache
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\Moogle--Dayron-Valdivia-Diaz-cc112\MoogleServer\bin\Debug\net6.0\appsettings.Development.json
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\Moogle--Dayron-Valdivia-Diaz-cc112\MoogleServer\bin\Debug\net6.0\appsettings.json
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\Moogle--Dayron-Valdivia-Diaz-cc112\MoogleServer\bin\Debug\net6.0\MoogleServer.staticwebassets.runtime.json
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\Moogle--Dayron-Valdivia-Diaz-cc112\MoogleServer\bin\Debug\net6.0\MoogleServer.exe
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\Moogle--Dayron-Valdivia-Diaz-cc112\MoogleServer\bin\Debug\net6.0\MoogleServer.deps.json
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\Moogle--Dayron-Valdivia-Diaz-cc112\MoogleServer\bin\Debug\net6.0\MoogleServer.runtimeconfig.json
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\Moogle--Dayron-Valdivia-Diaz-cc112\MoogleServer\bin\Debug\net6.0\MoogleServer.dll
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\Moogle--Dayron-Valdivia-Diaz-cc112\MoogleServer\bin\Debug\net6.0\ref\MoogleServer.dll
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\Moogle--Dayron-Valdivia-Diaz-cc112\MoogleServer\bin\Debug\net6.0\MoogleServer.pdb
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\Moogle--Dayron-Valdivia-Diaz-cc112\MoogleServer\bin\Debug\net6.0\MoogleEngine.dll
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\Moogle--Dayron-Valdivia-Diaz-cc112\MoogleServer\bin\Debug\net6.0\MoogleEngine.pdb
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\Moogle--Dayron-Valdivia-Diaz-cc112\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.AssemblyReference.cache
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\Moogle--Dayron-Valdivia-Diaz-cc112\MoogleServer\obj\Debug\net6.0\MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\Moogle--Dayron-Valdivia-Diaz-cc112\MoogleServer\obj\Debug\net6.0\MoogleServer.AssemblyInfoInputs.cache
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\Moogle--Dayron-Valdivia-Diaz-cc112\MoogleServer\obj\Debug\net6.0\MoogleServer.AssemblyInfo.cs
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\Moogle--Dayron-Valdivia-Diaz-cc112\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.CoreCompileInputs.cache
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\Moogle--Dayron-Valdivia-Diaz-cc112\MoogleServer\obj\Debug\net6.0\MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\Moogle--Dayron-Valdivia-Diaz-cc112\MoogleServer\obj\Debug\net6.0\MoogleServer.RazorAssemblyInfo.cache
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\Moogle--Dayron-Valdivia-Diaz-cc112\MoogleServer\obj\Debug\net6.0\MoogleServer.RazorAssemblyInfo.cs
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\Moogle--Dayron-Valdivia-Diaz-cc112\MoogleServer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\Moogle--Dayron-Valdivia-Diaz-cc112\MoogleServer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\Moogle--Dayron-Valdivia-Diaz-cc112\MoogleServer\obj\Debug\net6.0\scopedcss\Pages\Index.razor.rz.scp.css
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\Moogle--Dayron-Valdivia-Diaz-cc112\MoogleServer\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\Moogle--Dayron-Valdivia-Diaz-cc112\MoogleServer\obj\Debug\net6.0\scopedcss\bundle\MoogleServer.styles.css
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\Moogle--Dayron-Valdivia-Diaz-cc112\MoogleServer\obj\Debug\net6.0\scopedcss\projectbundle\MoogleServer.bundle.scp.css
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\Moogle--Dayron-Valdivia-Diaz-cc112\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.CopyComplete
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\Moogle--Dayron-Valdivia-Diaz-cc112\MoogleServer\obj\Debug\net6.0\MoogleServer.dll
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\Moogle--Dayron-Valdivia-Diaz-cc112\MoogleServer\obj\Debug\net6.0\ref\MoogleServer.dll
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\Moogle--Dayron-Valdivia-Diaz-cc112\MoogleServer\obj\Debug\net6.0\MoogleServer.pdb
+C:\Pc\UNI\Dayon Valdivia Diaz C112 !Moogle\Moogle--Dayron-Valdivia-Diaz-cc112\MoogleServer\obj\Debug\net6.0\MoogleServer.genruntimeconfig.cache
