@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.7.24)  24 JUL 2023 14:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.7.24)  24 JUL 2023 18:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -136,13 +136,9 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 7.
  (C:\Users\Dayron V\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-c:/Users/Dayron V/Downloads/Moogle-/Informe/Informe.tex:11: You can't use `macro parameter character #' in horizontal mode.
-l.11 y en el lenguaje C#
-                        .
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
+Overfull \hbox (7.08282pt too wide) in paragraph at lines 10--24
+\OT1/cmr/m/n/10 Es una apli-caci^^Son web, de-sar-rol-lada con tec-nolog^^S^^Pa .NET Core 6.0, es-pec^^S^^Pficamente
+ []
 
 [1
 
@@ -153,17 +149,17 @@ L3 programming layer <2023-06-30>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 1792 strings out of 475551
- 26016 string characters out of 5761102
+ 1786 strings out of 475551
+ 25920 string characters out of 5761102
  1927238 words of memory out of 5000000
- 23040 multiletter control sequences out of 15000+600000
- 564867 words of font info for 61 fonts, out of 8000000 for 9000
+ 23036 multiletter control sequences out of 15000+600000
+ 564260 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,6n,65p,265b,218s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Dayron V\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Dayron V/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Dayron V/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Dayron V/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Dayron V/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Dayron V/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Dayron V/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on "c:\Users\Dayron V\Downloads\Moogle-\Informe\build\Informe.pdf" (7 pages, 103299 bytes).
+ <C:\Users\Dayron V\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Dayron V/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Dayron V/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Dayron V/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Dayron V/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on "c:\Users\Dayron V\Downloads\Moogle-\Informe\build\Informe.pdf" (7 pages, 76162 bytes).
 PDF statistics:
- 61 PDF objects out of 1000 (max. 8388607)
+ 51 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,0 +1,45 @@
+\section{Introducción}\label{intro}
+
+\begin{frame}
+    \begin{columns}[t]
+        \begin{column}{.5\textwidth}
+          \tableofcontents[sections={1-2},currentsection]
+        \end{column}
+        \begin{column}{.5\textwidth}
+          \tableofcontents[sections={3-4},currentsection]
+        \end{column}
+    \end{columns}
+\end{frame}
+
+
+\section{Qué es Moogle?}
+\begin{frame}{¿Qué es Moogle?}
+\begin{center}
+    Es una aplicación web, desarrollada con tecnología .NET Core 6.0, 
+    específicamente usando Blazor como *framework* web para la interfaz gráfica, 
+    y en el lenguaje C#.     
+\end{center}
+
+\end{frame}
+\subsection{¿Qué objetivo tiene?}
+\begin{frame}{¿Qué objetivo tiene?}
+
+    Objetivo
+\begin{itemize}
+  \item Este proyecto tiene como objetivo buscar una consulta ingresada por el usuario 
+  en un conjunto de archivos de texto (con extensión `.txt`) que estén en la 
+  carpeta `Content`.   
+ 
+\end{itemize}
+\end{frame}
+\begin{frame}{¿Cómo esta estructurado?}
+    Estructura
+\begin{itemize}
+  \item `MoogleServer` es un servidor web que renderiza la interfaz gráfica y sirve los 
+  resultados. 
+  \item `MoogleEngine` es una biblioteca de clases donde está implementada la 
+  lógica del algoritmo de búsqueda. 
+  
+ 
+\end{itemize}
+\end{frame}

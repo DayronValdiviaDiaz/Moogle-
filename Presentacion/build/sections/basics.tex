@@ -1,0 +1,102 @@
+\section{Descripción del proyecto}
+
+\begin{frame}
+    \begin{columns}[t]
+        \begin{column}{.5\textwidth}
+          \tableofcontents[sections={1-2},currentsection]
+        \end{column}
+        \begin{column}{.5\textwidth}
+          \tableofcontents[sections={3-4},currentsection]
+        \end{column}
+    \end{columns}
+\end{frame}
+
+\subsection{Descripción del proyecto}
+\begin{frame}
+    El siguiente código a explicar es parte de una clase llamada "Moogle" que 
+contiene un método estático llamado "Query". Este método toma una cadena 
+de consulta como parámetro y devuelve un objeto SearchResult. 
+\end{frame}
+\begin {frame}
+El código utiliza varios diccionarios y listas para realizar la búsqueda: 
+\begin {itemize}
+\item La variable "NombreDeDocumentos" 
+\item La variable "DireccionDeDocumentos"
+\item La lista"TodasPalabrasDeLosDocumentosSinRepetir"
+\item Las listas "Debe", "NoDebe", y "Cerca"
+\item La variable "Sugerencia" 
+\item Las listas "CercaDos" y "snippet" 
+\item El diccionario "Importancia"
+\item El diccionario "Palabra"
+\item El diccionario "ScoreDeDocumentos" 
+\item El diccionario "PalabraQueMasSeRepitePorDocumentos"
+\item El diccionario "CantidadDeDocumentosQueApareceUnaPalabra" 
+\item El diccionario "TFxIDF"
+\item El diccionario "Vocabulary"
+\item La variable "scoreOrdenado"
+\end {itemize}
+\end{frame}
+\begin{frame}
+Posterior a las creación de las variables se implemento un método Rellenar que 
+se encarga de como su nombre lo indica de completar estas listas y 
+diccionarios. Se separa por partes para su mejor comprensión: 
+\begin{itemize}
+    \item Rellenar "Vocabulary" 
+    Este código recorre una lista de directorios que contienen documentos y crea 
+    un diccionario de vocabulario para cada documento. El diccionario contiene 
+    palabras como claves y una lista de las posiciones en las que aparecen en el 
+    documento como valores
+    \item Rellenar nombre y dirección de documentos
+     Este código crea un arreglo de strings llamado "NombreDeDocumentos" que 
+    contiene los nombres de los documentos presentes en una lista de directorios
+    \item Rellenar todas las palabras de los documentos en 
+    "TodasPalabrasDeLosDocumentosSinRepetir"
+    \item Rellenar "PalabraQueMasSeRepitePorDocumentos" 
+    \item Rellenar "CantidadDeDocumentosQueApareceUnaPalabra" 
+   
+\end{itemize}
+\end{frame}
+\begin{frame}
+\begin{itemize}
+    \item Rellenar Diccionario "TFxIDFI" 
+    \item Rellenar "ScoreDeDocumentos"
+    \item "Snippet" El código recorre la lista de documentos ordenados por su puntaje y crea un 
+    fragmento de texto para cada uno de ellos que contiene las palabras 
+    importantes de la consulta y algunas palabras adicionales alrededor de esas 
+    palabras. 
+    \item "Score" 
+    Este código es una función que calcula el puntaje de relevancia de un 
+    documento en base a una consulta. Utiliza el método TF-IDF para calcular la 
+    importancia de cada palabra
+    \item "LimpiarPalabra"
+    Este texto es una función que recibe una palabra y la limpia eliminando 
+    cualquier carácter no deseado
+    \item "HallarTFxIDF" 
+    Este código es una función que calcula el valor de la fórmula TFxIDF para una 
+    palabra
+    \item "HallarTFxIDFDelQuery" 
+    Este código es una función que recibe un texto y calcula el valor de la fórmula 
+    TFxIDF
+    
+\end{itemize}
+    
+\end{frame}
+\begin{frame}
+    \begin{itemize}
+        \item "sugerencia" 
+        Esta función recibe un texto y devuelve una sugerencia de corrección para 
+        cada palabra en el texto que no existe
+        \item "distanciaL" 
+        La función "distanciaL" implementa el algoritmo de distancia de Levenshtein.
+        \item "busca1" 
+        La función "busca1" verifica si el primer carácter de una cadena está en un 
+        conjunto de operadores dados
+        \item "busca2" 
+     La función "busca2" itera a través de cada carácter en una cadena llamada 
+    "palabra
+        \item "Operadores"la función crea un arreglo de objetos "SearchItem" utilizando los 
+        resultados de la función "scoreOrdenado", y los devuelve como un objeto 
+        SearchResult junto con la variable "Sugerencia". 
+    \end{itemize}
+    
+\end{frame}
