@@ -14,7 +14,7 @@ while true; do
 run() {
     echo -e "\e[32m Launching Moogle \e[0m"
     cd ..
-    cd moogle-main
+    cd Moogle--main
     dotnet watch run --project MoogleServer
     echo "Press Enter to continue" 
     read
